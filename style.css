@@ -9,6 +9,7 @@ html {
 	font-family: 'Lato';
 	background-color: rgb(241, 237, 232);
 	overflow-x: hidden;
+	scroll-behavior: smooth;
 }
 
 .logo {
